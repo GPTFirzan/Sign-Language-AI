@@ -1,7 +1,7 @@
-streamlit>=1.32.0
-streamlit-webrtc>=0.47.0
-av>=10.0.0
-opencv-python-headless>=4.7.0.68
+streamlit==1.60.0
+streamlit-webrtc==0.76.2
+av==17.1.0
+opencv-python-headless==5.0.0.93
 # Dikunci ke versi yang masih punya API mediapipe.solutions (dipakai app ini).
 # Versi 0.10.30 ke atas MENGHAPUS mediapipe.solutions sama sekali -> app akan
 # gagal total kalau versi tidak dikunci di sini.
@@ -12,6 +12,6 @@ mediapipe==0.10.14
 # begitu predict_proba() dipanggil (yaitu tepat saat tangan terdeteksi) kalau
 # versinya tidak cocok dengan versi training.
 scikit-learn==1.8.0
-Pillow>=9.0.0
-numpy>=1.21.0
-requests>=2.28.0
+Pillow==12.3.0
+numpy==2.4.6
+requests==2.34.2
