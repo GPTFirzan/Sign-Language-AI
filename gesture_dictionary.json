@@ -1,0 +1,82 @@
+{
+  "Halo": {
+    "deskripsi": "Sapaan 'Halo' dalam Bahasa Isyarat Indonesia (BISINDO).",
+    "cara": "Telapak tangan terbuka menghadap ke depan, kemudian dilambaikan ke kanan dan kiri sebagai salam.",
+    "gambar": "0.jpg",
+    "kategori": "Sapaan",
+    "jumlah_tangan": 1,
+    "kelas_index": 0
+  },
+  "Aku": {
+    "deskripsi": "Kata 'Aku' atau 'Saya' dalam Bahasa Isyarat Indonesia (BISINDO).",
+    "cara": "Telunjuk menunjuk ke arah dada sendiri.",
+    "gambar": "1.jpg",
+    "kategori": "Kata Ganti",
+    "jumlah_tangan": 1,
+    "kelas_index": 1
+  },
+  "Kamu": {
+    "deskripsi": "Kata 'Kamu' dalam Bahasa Isyarat Indonesia (BISINDO).",
+    "cara": "Telunjuk menunjuk ke arah lawan bicara.",
+    "gambar": "2.jpg",
+    "kategori": "Kata Ganti",
+    "jumlah_tangan": 1,
+    "kelas_index": 2
+  },
+  "Dia": {
+    "deskripsi": "Kata 'Dia' dalam Bahasa Isyarat Indonesia (BISINDO).",
+    "cara": "Telunjuk menunjuk ke arah orang yang dimaksud.",
+    "gambar": "3.jpg",
+    "kategori": "Kata Ganti",
+    "jumlah_tangan": 1,
+    "kelas_index": 3
+  },
+  "Stop": {
+    "deskripsi": "Kata 'Stop' dalam Bahasa Isyarat Indonesia (BISINDO).",
+    "cara": "Telapak tangan terbuka menghadap ke depan seperti memberi tanda berhenti.",
+    "gambar": "4.jpg",
+    "kategori": "Perintah",
+    "jumlah_tangan": 2,
+    "kelas_index": 4
+  },
+  "Rumah": {
+    "deskripsi": "Kata 'Rumah' dalam Bahasa Isyarat Indonesia (BISINDO).",
+    "cara": "Kedua tangan membentuk atap rumah di depan kepala atau wajah.",
+    "gambar": "5.jpg",
+    "kategori": "Tempat",
+    "jumlah_tangan": 2,
+    "kelas_index": 5
+  },
+  "Makan": {
+    "deskripsi": "Kata 'Makan' dalam Bahasa Isyarat Indonesia (BISINDO).",
+    "cara": "Ujung jari tangan diarahkan ke mulut seperti sedang menyuap makanan.",
+    "gambar": "6.jpg",
+    "kategori": "Kata Kerja",
+    "jumlah_tangan": 1,
+    "kelas_index": 6
+  },
+  "Pagi": {
+    "deskripsi": "Kata 'Pagi' dalam Bahasa Isyarat Indonesia (BISINDO).",
+    "cara": "Gerakkan tangan ke atas menggambarkan matahari terbit.",
+    "gambar": "7.jpg",
+    "kategori": "Waktu",
+    "jumlah_tangan": 1,
+    "kelas_index": 7
+  },
+  "Siapa": {
+    "deskripsi": "Kata 'Siapa' dalam Bahasa Isyarat Indonesia (BISINDO).",
+    "cara": "Telunjuk diarahkan ke depan dengan gerakan kecil sebagai tanda bertanya.",
+    "gambar": "8.jpg",
+    "kategori": "Kata Tanya",
+    "jumlah_tangan": 1,
+    "kelas_index": 8
+  },
+  "Minum": {
+    "deskripsi": "Kata 'Minum' dalam Bahasa Isyarat Indonesia (BISINDO).",
+    "cara": "Tangan membentuk seolah memegang gelas lalu diarahkan ke mulut.",
+    "gambar": "9.jpg",
+    "kategori": "Kata Kerja",
+    "jumlah_tangan": 1,
+    "kelas_index": 9
+  }
+}
