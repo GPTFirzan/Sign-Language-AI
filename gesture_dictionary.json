@@ -1,7 +1,7 @@
 {
   "Halo": {
     "deskripsi": "Sapaan 'Halo' dalam Bahasa Isyarat Indonesia (BISINDO).",
-    "cara": "Telapak tangan terbuka menghadap ke depan, kemudian dilambaikan ke kanan dan kiri sebagai salam.",
+    "cara": "Satu tangan terbuka dengan jari-jari dirapatkan, telapak tangan menghadap ke depan, dan tangan diangkat ke atas di samping kepala sebagai posisi sapaan.",
     "gambar": "0.jpg",
     "kategori": "Sapaan",
     "jumlah_tangan": 1,
@@ -9,7 +9,7 @@
   },
   "Aku": {
     "deskripsi": "Kata 'Aku' atau 'Saya' dalam Bahasa Isyarat Indonesia (BISINDO).",
-    "cara": "Telunjuk menunjuk ke arah dada sendiri.",
+    "cara": "Satu tangan terbuka dengan kelima jari dirapatkan. Telapak tangan menghadap ke dada dan ditempelkan pada bagian dada untuk menunjukkan diri sendiri.",
     "gambar": "1.jpg",
     "kategori": "Kata Ganti",
     "jumlah_tangan": 1,
@@ -17,7 +17,7 @@
   },
   "Kamu": {
     "deskripsi": "Kata 'Kamu' dalam Bahasa Isyarat Indonesia (BISINDO).",
-    "cara": "Telunjuk menunjuk ke arah lawan bicara.",
+    "cara": "Satu tangan terbuka dengan kelima jari dirapatkan. Telapak tangan menghadap ke arah depan dan tangan berada di depan tubuh, diarahkan kepada orang atau target sebagai penunjuk lawan bicara.",
     "gambar": "2.jpg",
     "kategori": "Kata Ganti",
     "jumlah_tangan": 1,
@@ -25,7 +25,7 @@
   },
   "Dia": {
     "deskripsi": "Kata 'Dia' dalam Bahasa Isyarat Indonesia (BISINDO).",
-    "cara": "Telunjuk menunjuk ke arah orang yang dimaksud.",
+    "cara": "Satu tangan dengan telunjuk diluruskan mengarah serong ke atas, sementara tiga jari lainnya ditekuk dan ibu jari berada di atasnya. Tangan berada di samping tubuh dalam posisi terangkat.",
     "gambar": "3.jpg",
     "kategori": "Kata Ganti",
     "jumlah_tangan": 1,
@@ -33,7 +33,7 @@
   },
   "Stop": {
     "deskripsi": "Kata 'Stop' dalam Bahasa Isyarat Indonesia (BISINDO).",
-    "cara": "Telapak tangan terbuka menghadap ke depan seperti memberi tanda berhenti.",
+    "cara": "Dua tangan digunakan. Satu tangan berada dalam posisi horizontal dengan telapak menghadap ke bawah, sedangkan tangan lainnya berada secara vertikal di bawahnya dengan telapak menghadap ke samping. Kedua tangan saling berdekatan sehingga membentuk huruf “T”.",
     "gambar": "4.jpg",
     "kategori": "Perintah",
     "jumlah_tangan": 2,
@@ -41,7 +41,7 @@
   },
   "Rumah": {
     "deskripsi": "Kata 'Rumah' dalam Bahasa Isyarat Indonesia (BISINDO).",
-    "cara": "Kedua tangan membentuk atap rumah di depan kepala atau wajah.",
+    "cara": "Dua tangan berada di depan wajah dengan jari-jari dirapatkan dan diarahkan ke atas. Kedua telapak tangan saling berhadapan dan ujung jari kedua tangan saling berdekatan, sehingga membentuk bentuk seperti segitiga.",
     "gambar": "5.jpg",
     "kategori": "Tempat",
     "jumlah_tangan": 2,
@@ -49,7 +49,7 @@
   },
   "Makan": {
     "deskripsi": "Kata 'Makan' dalam Bahasa Isyarat Indonesia (BISINDO).",
-    "cara": "Ujung jari tangan diarahkan ke mulut seperti sedang menyuap makanan.",
+    "cara": "Satu tangan berada di samping wajah dengan ibu jari dan jari telunjuk saling berdekatan pada bagian ujung. Jari tengah, jari manis, dan kelingking ditekuk ke arah telapak tangan. Tangan berada di dekat pipi dengan posisi telapak menghadap ke arah tubuh.",
     "gambar": "6.jpg",
     "kategori": "Kata Kerja",
     "jumlah_tangan": 1,
@@ -57,7 +57,7 @@
   },
   "Pagi": {
     "deskripsi": "Kata 'Pagi' dalam Bahasa Isyarat Indonesia (BISINDO).",
-    "cara": "Gerakkan tangan ke atas menggambarkan matahari terbit.",
+    "cara": "Satu tangan berada di atas kepala dalam posisi horizontal. Jari-jari dirapatkan dan diluruskan, dengan telapak tangan menghadap ke bawah.",
     "gambar": "7.jpg",
     "kategori": "Waktu",
     "jumlah_tangan": 1,
@@ -65,7 +65,7 @@
   },
   "Siapa": {
     "deskripsi": "Kata 'Siapa' dalam Bahasa Isyarat Indonesia (BISINDO).",
-    "cara": "Telunjuk diarahkan ke depan dengan gerakan kecil sebagai tanda bertanya.",
+    "cara": "Satu tangan berada di dekat dagu dengan jari-jari ditekuk dan mengepal ringan. Jari telunjuk ditekuk pada bagian depan tangan, sementara ibu jari berada di atas jari-jari yang ditekuk.",
     "gambar": "8.jpg",
     "kategori": "Kata Tanya",
     "jumlah_tangan": 1,
@@ -73,7 +73,7 @@
   },
   "Minum": {
     "deskripsi": "Kata 'Minum' dalam Bahasa Isyarat Indonesia (BISINDO).",
-    "cara": "Tangan membentuk seolah memegang gelas lalu diarahkan ke mulut.",
+    "cara": "Satu tangan ditekuk membentuk kepalan dengan ibu jari berada di bagian atas. Tangan berada di depan mulut dalam posisi seperti sedang memegang gelas.",
     "gambar": "9.jpg",
     "kategori": "Kata Kerja",
     "jumlah_tangan": 1,
